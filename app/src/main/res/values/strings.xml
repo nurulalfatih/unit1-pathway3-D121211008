@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NameCard</string>
+
+    <string name="FullName">Nurul Alfatih Khumaera Azzahra</string>
+    <string name="Title">Student</string>
+    <string name="Telp">085240412662</string>
+    <string name="Ig">fat____ih</string>
+    <string name="Email">alfatihzahra04@gmail.com</string>
+</resources>
